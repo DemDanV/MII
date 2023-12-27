@@ -1,0 +1,2 @@
+C:/"Program Files"/Java/jdk-18.0.2.1/bin/java -cp "lib/jade.jar;lib/hamcrest-core-1.1.jar;lib/json-simple-1.1.1.jar;out/production/Pechka-master copy" jade.Boot -container -container-name Comp_1 -host "localhost" -port "1099"  -agents "AgentLoad2:AgentLoader(compukteri.txt, tasks.txt)"
+pause
